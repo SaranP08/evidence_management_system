@@ -4,3 +4,4 @@ numpy
 gunicorn
 eventlet
 pymongo
+pandas
