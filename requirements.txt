@@ -5,3 +5,4 @@ gunicorn
 eventlet
 pymongo
 pandas
+flask_socketio
