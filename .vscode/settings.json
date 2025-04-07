@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/e54ca504-322e-4b87-bf10-49f95ecc0e91/resourceGroups/appsvc_linux_southindia/providers/Microsoft.Web/sites/evidence-management-system",
+  "appService.deploySubpath": "."
+}
